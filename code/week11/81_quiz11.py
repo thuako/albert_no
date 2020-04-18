@@ -1,0 +1,12 @@
+# 1. get all IMAX movies with timetable of CGV Yongsan or Wangsimni based on telegram message
+# ex) 74 -> gives you Wangsimni IMAX timetable
+# ex) 13 -> gives you Yongsan IMAX timetable
+
+# 2 1. get all (or all IMAX) movies with timetable of CGV Yongsan or Wangsimni based on telegram message
+# Other inputs should give you `invalid input' message
+# ex) 74 -> gives you Wangsimni timetable
+# ex) 74 IMAX -> gives you Wangsimni IMAX timetable
+# ex) 13 -> gives you Yongsan timetable
+# ex) 13 IMAX -> gives you Yongsan IMAX timetable
+# ex) 14 -> `invalid input'
+# ex) 13 IMX -> `invalid input'
